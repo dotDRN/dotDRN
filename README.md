@@ -18,4 +18,4 @@ Technologies I’ve worked with through projects and continue to learn and impro
 - **Real-Time Chat App** – WebSocket-based messaging system  
 - **WillowWealth** – Finance tracking & visualization app  
 
-📫 Connect with me on LinkedIn: www.linkedin.com/in/dibyaranjan-prusty-94a96a29b
+📫 Connect with me on LinkedIn: www.linkedin.com/in/dibyaranjan-prusty
